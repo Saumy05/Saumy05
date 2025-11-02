@@ -12,12 +12,12 @@
 
 ## 🎯 Quick Overview
 
-**Final-year Computer Science Engineering student** at AKS University, Satna (CGPA: 7.72/10) with hands-on experience in cybersecurity, full-stack development, and AI/ML projects[file:1]. Currently working at **ISRO's NARL** on atmospheric data visualization, previously interned at **Acmegrade** for penetration testing[file:1]. Passionate about building secure, scalable systems[file:1].
+**Final-year Computer Science Engineering student** at AKS University, Satna (CGPA: 7.72/10) with hands-on experience in cybersecurity, full-stack development, and AI/ML projects. Currently working at **ISRO's NARL** on atmospheric data visualization, previously interned at **Acmegrade** for penetration testing. Passionate about building secure, scalable systems.
 
 - 📍 **Location:** Satna, India | 📧 [saumy2475@gmail.com](mailto:saumy2475@gmail.com) | 📱 +91-7389279971
-- 🔬 **Current:** Research Intern at NARL, ISRO (Sept 2025–Present)[file:1]
-- 🏆 **Achievement:** IBM National Hackathon Finalist, Top 1% (Aug 2025)[file:1]
-- 🛡️ **Background:** Cybersecurity Intern at Acmegrade (Feb–Apr 2024)[file:1]
+- 🔬 **Current:** Research Intern at NARL, ISRO (Sept 2025–Present)
+- 🏆 **Achievement:** IBM National Hackathon Finalist, Top 1% (Aug 2025)
+- 🛡️ **Background:** Cybersecurity Intern at Acmegrade (Feb–Apr 2024)
 
 ## 🛠️ Technical Skills
 
@@ -65,24 +65,24 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>[file:1]
+</div>
 
 ## 💼 Professional Experience
 
 ### 🔬 Research Intern — NARL, ISRO (Sept 2025–Present)
-**National Atmospheric Research Laboratory, Dept. of Space, ISRO**[file:1]
+**National Atmospheric Research Laboratory, Dept. of Space, ISRO**
 
 Working on atmospheric data analysis and visualization for lightning events:
-- Building interactive data visualization dashboards using HTML, CSS, JavaScript, and Python[file:1]
-- Developing automation scripts for real-time lightning data processing[file:1]
-- Collaborating with research scientists to optimize backend data flow and analytical accuracy[file:1]
+- Building interactive data visualization dashboards using HTML, CSS, JavaScript, and Python
+- Developing automation scripts for real-time lightning data processing
+- Collaborating with research scientists to optimize backend data flow and analytical accuracy
 
 ### 🛡️ Cybersecurity Intern — Acmegrade (Feb–Apr 2024)
-**Vulnerability Assessment & Penetration Testing**[file:1]
+**Vulnerability Assessment & Penetration Testing**
 
-- Conducted vulnerability assessments and penetration testing on web applications adhering to OWASP Top 10 standards[file:1]
-- Identified and mitigated SQL injection, XSS, CSRF, and insecure authentication vulnerabilities[file:1]
-- Used Burp Suite, Wireshark, and Nmap for security analysis and network traffic detection[file:1]
+- Conducted vulnerability assessments and penetration testing on web applications adhering to OWASP Top 10 standards
+- Identified and mitigated SQL injection, XSS, CSRF, and insecure authentication vulnerabilities
+- Used Burp Suite, Wireshark, and Nmap for security analysis and network traffic detection
 
 ## 🔐 Featured Projects
 
@@ -95,9 +95,9 @@ Python-based security scanner for detecting web vulnerabilities:
 - CSRF token validation and analysis
 - Automated security report generation
 
-**Tech Stack:** Python, Requests, BeautifulSoup, Socket[file:1]
+**Tech Stack:** Python, Requests, BeautifulSoup, Socket
 
-[GitHub](https://github.com/Saumy05/websec-scanner)
+**[GitHub](https://github.com/Saumy05/websec-scanner)**
 
 ### 🌐 NetAnalyzr
 **Real-Time Network Traffic Analyzer**
@@ -108,28 +108,28 @@ Network packet inspection tool for security monitoring:
 - Traffic visualization and forensic logging
 - Port scan and intrusion detection
 
-**Tech Stack:** Python, Scapy, Socket Programming[file:1]
+**Tech Stack:** Python, Scapy, Socket Programming
 
-[GitHub](https://github.com/Saumy05/netanalyzr)
+**[GitHub](https://github.com/Saumy05/netanalyzr)**
 
 ## 🚀 Other Notable Projects
 
 ### 🤖 AI-Based Chess Game (Aug–Sept 2025)
-Real-time chess with AI opponent featuring adaptive gameplay[file:1]:
+Real-time chess with AI opponent featuring adaptive gameplay:
 - Implemented in JavaScript, HTML, CSS for responsive performance
 - Custom move prediction algorithms with multiple difficulty levels
 - Deployed on Vercel with seamless cross-device compatibility
 - **[Live Demo](https://chess-ai.vercel.app)** | **[GitHub](https://github.com/Saumy05/chess-ai)**
 
 ### 👗 VastraVista – Fashion Recommendation (May–Sept 2025)
-AI-powered skin tone analysis for personalized clothing suggestions[file:1]:
+AI-powered skin tone analysis for personalized clothing suggestions:
 - Skin tone detection using OpenCV for accurate color analysis
 - React + Tailwind CSS frontend with intuitive UI
 - Lightweight ML model for clothing color recommendations
 - **[GitHub](https://github.com/Saumy05/vastravista)**
 
 ### 🧠 Multimodal Emotion Detection (2025)
-Real-time emotion analysis system[file:1]:
+Real-time emotion analysis system:
 - Integrated computer vision, audio processing, and NLP for multimodal detection
 - Facial expression recognition using OpenCV
 - Voice tone and text sentiment analysis
@@ -137,7 +137,7 @@ Real-time emotion analysis system[file:1]:
 - **[GitHub](https://github.com/Saumy05/emotion-detector)**
 
 ### ✈️ Airline Reservation System (IBM National Hackathon 2025)
-Multi-threaded booking platform[file:1]:
+Multi-threaded booking platform:
 - Console-based application built with C++
 - Surge pricing and loyalty program integration
 - Improved booking efficiency by 25% through concurrency optimization
@@ -145,7 +145,7 @@ Multi-threaded booking platform[file:1]:
 - **[GitHub](https://github.com/Saumy05/airline-res)**
 
 ### 📝 AI-Powered Task Manager (June–July 2025)
-Intelligent productivity assistant[file:1]:
+Intelligent productivity assistant:
 - Built with React and OpenAI API integration
 - Optimized performance by 30% through caching and async handling
 - NLP-driven task prioritization
@@ -153,14 +153,14 @@ Intelligent productivity assistant[file:1]:
 - **[GitHub](https://github.com/Saumy05/task-ai)**
 
 ### 💼 Job Finder Web App (Jan–Apr 2025)
-Dynamic job search platform[file:1]:
+Dynamic job search platform:
 - React + Tailwind CSS + REST API integration
 - Advanced filtering and saved searches
 - Deployed on Vercel for fast performance
 - **[Live Demo](https://jobfinder.vercel.app)** | **[GitHub](https://github.com/Saumy05/jobfinder)**
 
 ### 🎯 CareerPath – AI Career Guidance (May–July 2024)
-Personalized career recommendation platform[file:1]:
+Personalized career recommendation platform:
 - 15% improvement in recommendation accuracy through optimized matching logic
 - Resume-based job listing filtering and suggestions
 - **[GitHub](https://github.com/Saumy05/careerpath)**
@@ -178,15 +178,15 @@ Personalized career recommendation platform[file:1]:
 
 ## 🏆 Achievements
 
-- 🥇 **National Hackathon Finalist** (Aug 2025) – Ranked Top 1% nationally with Airline Reservation System[file:1]
-- 🔬 **ISRO Research Contributor** – Currently working on atmospheric data research projects[file:1]
-- 🛡️ **Cybersecurity Professional** – Hands-on penetration testing experience at Acmegrade[file:1]
-- 🎯 **Algorithm Optimization** – Achieved 25% efficiency improvement in booking system[file:1]
-- 👨‍🏫 **DSA Mentor** – Guided 100+ students through three DSA workshop sessions (2 hours each)[file:1]
+- 🥇 **National Hackathon Finalist** (Aug 2025) – Ranked Top 1% nationally with Airline Reservation System
+- 🔬 **ISRO Research Contributor** – Currently working on atmospheric data research projects
+- 🛡️ **Cybersecurity Professional** – Hands-on penetration testing experience at Acmegrade
+- 🎯 **Algorithm Optimization** – Achieved 25% efficiency improvement in booking system
+- 👨‍🏫 **DSA Mentor** – Guided 100+ students through three DSA workshop sessions (2 hours each)
 
 ## 📚 Relevant Coursework
 
-Data Structures & Algorithms | Operating Systems | Database Systems | Computer Networks | Web Development | Cybersecurity Fundamentals | Artificial Intelligence | Machine Learning[file:1]
+Data Structures & Algorithms | Operating Systems | Database Systems | Computer Networks | Web Development | Cybersecurity Fundamentals | Artificial Intelligence | Machine Learning
 
 ## 🎯 Focus Areas
 
@@ -212,12 +212,30 @@ Data Structures & Algorithms | Operating Systems | Database Systems | Computer N
 
 ---
 
+## 📊 GitHub Overview
+
 <div align="center">
-  <i>"Building secure, scalable systems with code and creativity."</i>
+  <img src="https://github-profile-3d-contrib.vercel.app/profile?username=Saumy05&theme=github-dark" width="100%" alt="3D Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumy05&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph"/>
 </div>
 
-![Snake animation](https://github.com/Saumy05/Saumy05/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=Saumy05&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>✨ Let's Build Something Secure Together</h3>
+  <i>"Defending the digital world, one commit at a time."</i>
+  <br/>
+  <sub>⭐ If you find any project useful, consider giving it a star! 🌟</sub>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Happy%20Coding!&fontSize=20&animation=fadeIn"/>
+</div>
