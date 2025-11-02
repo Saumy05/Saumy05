@@ -212,15 +212,6 @@ Data Structures & Algorithms | Operating Systems | Database Systems | Computer N
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/profile?username=Saumy05&theme=github-dark" width="100%" alt="3D Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saumy05&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true&theme=github-dark" alt="GitHub Activity Graph"/>
-</div>
 
 <div align="center">
   <h3>🏆 GitHub Trophies</h3>
