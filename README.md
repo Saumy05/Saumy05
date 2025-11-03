@@ -119,7 +119,7 @@ Real-time chess with AI opponent featuring adaptive gameplay:
 - Implemented in JavaScript, HTML, CSS for responsive performance
 - Custom move prediction algorithms with multiple difficulty levels
 - Deployed on Vercel with seamless cross-device compatibility
-- **[Live Demo](https://chess-ai.vercel.app)** | **[GitHub](https://github.com/Saumy05/chess-ai)**
+- **[Live Demo](https://chessg.vercel.app)** | **[GitHub](https://github.com/Saumy05/chess-ai)**
 
 ### 👗 VastraVista – Fashion Recommendation (May–Sept 2025)
 AI-powered skin tone analysis for personalized clothing suggestions:
@@ -157,24 +157,13 @@ Dynamic job search platform:
 - React + Tailwind CSS + REST API integration
 - Advanced filtering and saved searches
 - Deployed on Vercel for fast performance
-- **[Live Demo](https://jobfinder.vercel.app)** | **[GitHub](https://github.com/Saumy05/jobfinder)**
+- **[GitHub](https://github.com/Saumy05/jobfinder)**
 
 ### 🎯 CareerPath – AI Career Guidance (May–July 2024)
 Personalized career recommendation platform:
 - 15% improvement in recommendation accuracy through optimized matching logic
 - Resume-based job listing filtering and suggestions
 - **[GitHub](https://github.com/Saumy05/careerpath)**
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saumy05&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saumy05&layout=compact&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saumy05&theme=radical" alt="GitHub Streak"/>
-</div>
 
 ## 🏆 Achievements
 
