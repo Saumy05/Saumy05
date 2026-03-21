@@ -20,7 +20,7 @@ Currently working as a **Research Intern at ISRO (NARL)** on real-time atmospher
 My interests are shifting toward **DevOps and infrastructure engineering**, with a focus on **automation, reliability, and scalable system design**.
 
 - 📍 Satna, India  
-- 🔬 Research Intern — NARL, ISRO (Sept 2025 – Present)  
+- 🔬 Research Intern — NARL, ISRO (Sept 2025 – Jan 2026) 
 - 🏆 IBM National Hackathon Finalist (Top 1%)  
 - 🛡️ Former Cybersecurity Intern — Acmegrade  
 
@@ -58,10 +58,12 @@ My interests are shifting toward **DevOps and infrastructure engineering**, with
 
 ### 🔬 Research Intern — NARL, ISRO
 **National Atmospheric Research Laboratory, Dept. of Space**  
+*Sept 2025 – Jan 2026*
+
 - Built automated Python pipelines for real-time lightning data ingestion and processing  
 - Developed web-based visualization dashboards for scientific analysis  
 - Optimized backend workflows for performance, reliability, and maintainability  
-- Collaborated with scientists to improve data accuracy and reporting systems  
+- Collaborated with scientists to enhance data accuracy and reporting systems  
 
 ### 🛡️ Cybersecurity Intern — Acmegrade
 - Performed vulnerability assessment and penetration testing (OWASP Top 10)  
