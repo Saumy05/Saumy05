@@ -14,7 +14,7 @@
 
 ## 🎯 Overview
 
-Final-year **Computer Science Engineering student** at **AKS University, Satna (CGPA: 7.72/10)** with hands-on experience in **backend systems, Linux environments, and data-processing workflows**.  
+Final-year **Computer Science Engineering student** at **AKS University, Satna (CGPA: 7.9/10)** with hands-on experience in **backend systems, Linux environments, and data-processing workflows**.  
 Currently working as a **Research Intern at ISRO (NARL)** on real-time atmospheric data pipelines and visualization systems.
 
 My interests are shifting toward **DevOps and infrastructure engineering**, with a focus on **automation, reliability, and scalable system design**.
